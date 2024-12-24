@@ -33,7 +33,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.26</version> <!-- Change this version if needed -->
+            <version>8.0.28</version> <!-- Change this version if needed -->
         </dependency>
         
         <!-- Spring Boot Starter Test with specified version -->
